@@ -1,0 +1,4 @@
+Simple Snake game implemented using the SDL2 library.
+
+to compile and run the game just run the 's' script 
+(or manually execute the instructions in the script).
